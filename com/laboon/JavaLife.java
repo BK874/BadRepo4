@@ -2,6 +2,7 @@ package com.laboon;
 
 public class JavaLife {
 
+
     /**
      * This is the main part.
      *
